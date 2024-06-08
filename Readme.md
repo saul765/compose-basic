@@ -36,6 +36,8 @@ In this project, we extensively use the following Jetpack Compose components:
 
 ![img.png](images/img.png)
 
+![img.png](images/img3.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">JetBizCard</string>
     <string name="cardButtonText">Projects</string>
+    <string name="circularButtonText">Tap</string>
 
 
 </resources>
